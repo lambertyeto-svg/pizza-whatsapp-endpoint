@@ -1,0 +1,241 @@
+{
+  "pizzas": [
+    {
+      "nombre": "Base de pan, salsa pomodoro, queso mozzarella, pimiento pepperoni, opcional, extra de queso fino",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Base de pizza , salsa pomodoro, queso mozzarella, pollo ranchero cebollita y pimiento morron. opcional extra de queso fino",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Base de pizza , salsa pomodoro, queso mozzarella, y champiñones frescos opcional extra de queso fino",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Base de pizza salsa pomodoro, queso mozzarella, champiñones y jamon de cerdo, opcional extra de queso fino",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Base de pizza, salsa pomodoro, queso mozzarella, espinacas y queso azul. opcional extra de queso fino",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Pizza con choriso, cebolla, jalapeños, pimiento salsa de frijol, y queso mozzarella opcional queso extrafino",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Pizza con rodajas de jitomate y hojas de albahaca, opcional, extra de queso fino",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Pizza d queso oaxaca mozzarella y manchego",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Pizza de carne al pastor con cebollita cilantro piña y salsa roja salsa pomodoro, opcional extra de queso fino",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Pizza de carnes frias jamon pepperoni salchicha y queso mozzarella. opcional extra de queso fino",
+      "precio_familiar": 209.0
+    },
+    {
+      "nombre": "Pizza de champiñones frescos con aderezo de ajo",
+      "precio_30cm": 179.0
+    },
+    {
+      "nombre": "Pizza de champiñones frescos jamon de cerdo de 1a y aderezo de ajo",
+      "precio_30cm": 179.0
+    },
+    {
+      "nombre": "Pizza de choriso rajitas jalapeño salsa frijol, cebollita salsa pomodoro y queso mozzarella",
+      "precio_30cm": 179.0
+    },
+    {
+      "nombre": "Pizza de de pepperoni base de pan salsa pomodoro y queo mozzarella",
+      "precio_30cm": 179.0
+    },
+    {
+      "nombre": "Pizza de espinacas queso mozzarella y queso roqueforth",
+      "precio_30cm": 179.0
+    },
+    {
+      "nombre": "Pizza de jamon con piña base de pan salsa pomodoro queso mozzarela, opcional extra de queso fino",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Pizza de jamon y piña base de pan salsa pomodoro queso mozzarella albahaca",
+      "precio_30cm": 179.0
+    },
+    {
+      "nombre": "Pizza de pepperoni , base de pan, salsa pomodoro, queso mozzarella y albahaca",
+      "precio_30cm": 209.0
+    },
+    {
+      "nombre": "Pizza de salsa pomodoro, queso mozzarella queso azul y oaxaca",
+      "precio_30cm": 179.0
+    },
+    {
+      "nombre": "Pizza de tocino con pimientos y salsa bbq",
+      "precio_30cm": 179.0
+    },
+    {
+      "nombre": "Pizza tradicional de rodajas de jitomate y hojas frescas de albahaca",
+      "precio_30cm": 159.0
+    }
+  ],
+  "bebidas": [
+    {
+      "nombre": "fresco pepsi de 1.5 lts",
+      "precio": 39.0
+    },
+    {
+      "nombre": "refresco 7up",
+      "precio": 25.0
+    },
+    {
+      "nombre": "refresco de limon de 1.5lts",
+      "precio": 39.0
+    },
+    {
+      "nombre": "refresco de manzana 1.5 lts",
+      "precio": 39.0
+    },
+    {
+      "nombre": "refresco de sabor manzana .400ml",
+      "precio": 25.0
+    },
+    {
+      "nombre": "refresco pepsi de 400 ml",
+      "precio": 25.0
+    }
+  ],
+  "extras": [
+    {
+      "nombre": "1 kilo de papas a la francesa para todos los amigos",
+      "precio": 129.0
+    },
+    {
+      "nombre": "250 grs de queso azul",
+      "precio": 149.0
+    },
+    {
+      "nombre": "250 grs de queso fondue",
+      "precio": 246.0
+    },
+    {
+      "nombre": "250 grs de queso gruyere",
+      "precio": 150.0
+    },
+    {
+      "nombre": "250 grs queso cabra",
+      "precio": 160.0
+    },
+    {
+      "nombre": "250 grs queso de bola edam",
+      "precio": 168.0
+    },
+    {
+      "nombre": "250 grs queso manchego",
+      "precio": 98.0
+    },
+    {
+      "nombre": "250 grs queso parmesano",
+      "precio": 198.0
+    },
+    {
+      "nombre": "250 grs queso provolone",
+      "precio": 169.0
+    },
+    {
+      "nombre": "5 panquecitos rellenos de queso mozzarella y pepperoni.",
+      "precio": 17.0
+    },
+    {
+      "nombre": "bounlees de pechuga de pollo .220 grs apr",
+      "precio": 99.0
+    },
+    {
+      "nombre": "dip de salsa pomodoro de la casa",
+      "precio": 15.0
+    },
+    {
+      "nombre": "medio kilo de papas gajo para compartir",
+      "precio": 159.0
+    },
+    {
+      "nombre": "nan",
+      "precio": 55.0
+    },
+    {
+      "nombre": "nan",
+      "precio": 45.0
+    },
+    {
+      "nombre": "nan",
+      "precio": 45.0
+    },
+    {
+      "nombre": "nan",
+      "precio": 25.0
+    },
+    {
+      "nombre": "papas francesas 1/2 kg",
+      "precio": 89.0
+    },
+    {
+      "nombre": "papas gajo de un kilo para toda la familia",
+      "precio": 249.0
+    },
+    {
+      "nombre": "papas gajo sazonadas",
+      "precio": 188.0
+    },
+    {
+      "nombre": "papas gajo sazonadas porc 150 grs",
+      "precio": 79.0
+    },
+    {
+      "nombre": "pollo rostizado ranchero salsa pomodoro cebollita y queso mozzarella",
+      "precio": 179.0
+    },
+    {
+      "nombre": "porcion individual de 150 grs de papas a la francesa",
+      "precio": 35.0
+    },
+    {
+      "nombre": "queso azul 150 grs",
+      "precio": 100.0
+    },
+    {
+      "nombre": "queso de cabra finas hierbas 250 grs",
+      "precio": 160.0
+    },
+    {
+      "nombre": "queso fondue 400 grs",
+      "precio": 246.0
+    },
+    {
+      "nombre": "queso gruyere 170 grs",
+      "precio": 100.0
+    }
+  ],
+  "promos": [
+    {
+      "nombre": "dos pizzas grandes  pepperoni y hawaiana a elegir",
+      "precio": 343.0
+    }
+  ],
+  "faqs": {
+    "horarios": "Miércoles a domingo de 1:00 pm a 11:00 pm",
+    "direccion": "Av. San Jerónimo 131, Col. San Jerónimo Lídice, CDMX",
+    "cobertura": "Entregas en zona cercana (radio 5 km).",
+    "formas_pago": [
+      "Efectivo",
+      "Transferencia",
+      "Link de pago"
+    ],
+    "tiempo_entrega": "30 a 45 minutos"
+  }
+}
